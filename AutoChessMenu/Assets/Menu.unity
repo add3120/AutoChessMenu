@@ -2781,6 +2781,7 @@ GameObject:
   - component: {fileID: 1753437788}
   - component: {fileID: 1753437790}
   - component: {fileID: 1753437789}
+  - component: {fileID: 1753437791}
   m_Layer: 5
   m_Name: "\u6A19\u984C\u5716\u7247"
   m_TagString: Untagged
@@ -2830,7 +2831,7 @@ MonoBehaviour:
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 1
-  m_FillAmount: 1
+  m_FillAmount: 0
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
@@ -2843,6 +2844,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1753437787}
   m_CullTransparentMesh: 0
+--- !u!111 &1753437791
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1753437787}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 9ef905ed276c93a43b838dc9185f6276, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 9ef905ed276c93a43b838dc9185f6276, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1852887968
 GameObject:
   m_ObjectHideFlags: 0
