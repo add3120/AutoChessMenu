@@ -2783,7 +2783,7 @@ GameObject:
   - component: {fileID: 1753437789}
   - component: {fileID: 1753437791}
   m_Layer: 5
-  m_Name: "\u6A19\u984C\u5716\u7247"
+  m_Name: tittlelogo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
